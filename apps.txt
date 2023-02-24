@@ -32,7 +32,7 @@
       "msg":"App has been stopped!"
    },
    "Chefdarbari":{
-      "value":true,
+      "value":false,
       "msg":"App has been stopped!"
    }
 }
