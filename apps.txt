@@ -30,5 +30,9 @@
    "SimpleVideoPlayer":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "Chefdarbari":{
+      "value":true,
+      "msg":"App has been stopped!"
    }
 }
