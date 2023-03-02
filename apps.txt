@@ -34,5 +34,9 @@
    "Chefdarbari":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "MyKeyboard":{
+      "value":true,
+      "msg":"App has been stopped!"
    }
 }
