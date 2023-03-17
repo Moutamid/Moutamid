@@ -36,7 +36,7 @@
       "msg":"App has been stopped!"
    },
    "MyKeyboard":{
-      "value":false,
+      "value":true,
       "msg":"App has been stopped!"
    }
 }
