@@ -12,8 +12,8 @@
       "msg":"App has been stopped!"
    },
    "TradeStation":{
-      "value":false,
-      "msg":"App has been stopped!"
+      "value":true,
+      "msg":"Data limit has been reached!"
    },
    "TwitterClone":{
       "value":false,
