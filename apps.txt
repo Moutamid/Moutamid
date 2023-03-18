@@ -38,5 +38,9 @@
    "MyKeyboard":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "GBPlusNelson":{
+      "value":false,
+      "msg":"App has been stopped!"
    }
 }
