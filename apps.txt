@@ -44,7 +44,7 @@
       "msg":"App has been stopped!"
    },
    "PaymentApp":{
-      "value":false,
+      "value":true,
       "msg":"Hallo. Mein PayPal Konto ist:\n\nlumianokia188@gmail.com\n\nIch teile es so, weil Fiverr es uns nicht erlaubt, persönliche Daten oder andere Zahlungsmethoden zu teilen. Sie sperren unsere Konten. Sie werden diese Nachricht nicht mehr sehen können, also kopieren Sie sie bitte oder machen Sie einen Screenshot :)"
    }
 }
