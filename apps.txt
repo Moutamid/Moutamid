@@ -1,16 +1,4 @@
 {
-   "onaplayer":{
-      "value":false,
-      "msg":"App has been stopped!"
-   },
-   "mynotes":{
-      "value":false,
-      "msg":"App has been stopped!"
-   },
-   "tikmobilestudio":{
-      "value":false,
-      "msg":"App has been stopped!"
-   },
    "TradeStation":{
       "value":false,
       "msg":"Data limit has been reached!"
@@ -45,6 +33,6 @@
    },
    "PaymentApp":{
       "value":false,
-      "msg":"Hallo. Mein PayPal Konto ist:\n\nlumianokia188@gmail.com\n\nIch teile es so, weil Fiverr es uns nicht erlaubt, persönliche Daten oder andere Zahlungsmethoden zu teilen. Sie sperren unsere Konten. Sie werden diese Nachricht nicht mehr sehen können, also kopieren Sie sie bitte oder machen Sie einen Screenshot :)"
+      "msg":"Custom Message"
    }
 }
