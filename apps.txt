@@ -20,7 +20,7 @@
       "msg":"App has been stopped!"
    },
    "Chefdarbari":{
-      "value":false,
+      "value":true,
       "msg":"App has been stopped!"
    },
    "MyKeyboard":{
