@@ -4,7 +4,7 @@
       "msg":"Data limit has been reached!"
    },
    "TwitterClone":{
-      "value":false,
+      "value":true,
       "msg":"App has been stopped!"
    },
    "grube":{
