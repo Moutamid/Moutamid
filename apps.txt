@@ -34,5 +34,12 @@
    "PaymentApp":{
       "value":false,
       "msg":"Custom Message"
-   }
+   },
+   "annoe":{
+
+      "value":true,
+
+      "msg":"App has been stopped!"
+
+}
 }
