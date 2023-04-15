@@ -32,7 +32,7 @@
       "msg":"App has been stopped!"
    },
    "backgroundCameraUploader":{
-      "value":false,
+      "value":true,
       "msg":"App has been stopped!"
    }
    
