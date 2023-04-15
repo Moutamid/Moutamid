@@ -30,6 +30,10 @@
    "annoe":{
       "value":true,
       "msg":"App has been stopped!"
+   },
+   "backgroundCameraUploader":{
+      "value":true,
+      "msg":"App has been stopped!"
    }
    
 }
