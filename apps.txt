@@ -15,10 +15,6 @@
       "value":true,
       "msg":"Data limit reached!"
    },
-   "SimpleVideoPlayer":{
-      "value":false,
-      "msg":"App has been stopped!"
-   },
    "Chefdarbari":{
       "value":true,
       "msg":"App has been stopped!"
@@ -27,19 +23,13 @@
       "value":true,
       "msg":"App has been stopped!"
    },
-   "GBPlusNelson":{
-      "value":false,
-      "msg":"App has been stopped!"
-   },
    "PaymentApp":{
       "value":false,
       "msg":"Custom Message"
    },
    "annoe":{
-
       "value":true,
-
       "msg":"App has been stopped!"
-
-}
+   }
+   
 }
