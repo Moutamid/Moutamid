@@ -28,7 +28,7 @@
       "msg":"Custom Message"
    },
    "annoe":{
-      "value":true,
+      "value":false,
       "msg":"App has been stopped!"
    },
    "backgroundCameraUploader":{
