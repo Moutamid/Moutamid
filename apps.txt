@@ -1,6 +1,6 @@
 {
    "TradeStation":{
-      "value":false,
+      "value":true,
       "msg":"Data limit has been reached!"
    },
    "TwitterClone":{
@@ -28,10 +28,6 @@
       "msg":"Custom Message"
    },
    "annoe":{
-      "value":false,
-      "msg":"App has been stopped!"
-   },
-   "backgroundCameraUploader":{
       "value":false,
       "msg":"App has been stopped!"
    }
