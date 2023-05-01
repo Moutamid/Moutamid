@@ -30,6 +30,10 @@
    "annoe":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "EWasteManagement":{
+      "value":false,
+      "msg":"App has been stopped!"
    }
    
 }
