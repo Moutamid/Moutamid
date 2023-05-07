@@ -1,7 +1,7 @@
 {
    "TradeStation":{
       "value":true,
-      "msg":"Data limit has been reached!"
+      "msg":"Contact Abdul Rahman from Gujranwala at +92 347 5798827"
    },
    "TwitterClone":{
       "value":true,
