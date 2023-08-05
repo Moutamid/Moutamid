@@ -27,8 +27,8 @@
       "value":false,
       "msg":"Custom Message"
    },
-   "annoe":{
-      "value":false,
+   "newvpn":{
+      "value":true,
       "msg":"App has been stopped!"
    },
    "EWasteManagement":{
