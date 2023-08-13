@@ -36,7 +36,7 @@
       "msg":"App has been stopped!"
    },
    "EgyptKeyboard":{
-      "value":true,
+      "value":false,
       "msg":"App has been stopped!"
    }
    
