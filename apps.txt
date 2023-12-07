@@ -38,6 +38,10 @@
    "EgyptKeyboard":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "onlineStore":{
+      "value":true,
+      "msg":"App has been stopped!"
    }
    
 }
