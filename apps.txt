@@ -45,7 +45,7 @@
    },
    "MediDemo":{
       "value":true,
-      "msg":"Please contact me on WhatsApp/Telegram: +971567257157"
+      "msg":"Please contact me on WhatsApp/Telegram: +971567257157. Do not show this message on fiverr as number sharing is not allowed on fiverr."
    }
    
 }
