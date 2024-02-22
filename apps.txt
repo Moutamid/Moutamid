@@ -42,6 +42,10 @@
    "onlineStore":{
       "value":true,
       "msg":"App has been stopped!"
+   },
+   "MediDemo":{
+      "value":true,
+      "msg":"Please contact me on WhatsApp/Telegram: +971567257157"
    }
    
 }
