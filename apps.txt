@@ -42,6 +42,10 @@
    "onlineStore":{
       "value":true,
       "msg":"App has been stopped!"
+   },
+   "DataEntryDemo1":{
+      "value":false,
+      "version":"1"
    }
    
 }
