@@ -44,7 +44,7 @@
       "msg":"App has been stopped!"
    },
    "DataEntryDemo1":{
-      "value":false,
+      "value":true,
       "version":"2"
    }
    
