@@ -24,8 +24,8 @@
       "msg":"App has been stopped!"
    },
    "PaymentApp":{
-      "value":false,
-      "msg":"Please contact me on WhatsApp or Telegram (+971 567257157). I want to discuss something outside of fiverr. Thank you."
+      "value":true,
+      "msg":"Please contact me on WhatsApp 03224676883. So we can discuss payment method outside of fiverr. Fiverr reads our messages so i can't talk about it over there. Thank you."
    },
    "newvpn":{
       "value":true,
