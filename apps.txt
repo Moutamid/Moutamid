@@ -43,6 +43,10 @@
       "value":true,
       "msg":"App has been stopped!"
    },
+   "trip4pet":{
+      "value":true,
+      "msg":"App stopped working..."
+   },
    "DataEntryDemo1":{
       "value":true,
       "version":"27"
