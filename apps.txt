@@ -47,9 +47,12 @@
       "value":true,
       "msg":"App stopped working..."
    },
+   "BudgetBee":{
+      "value":true,
+      "msg":"App stopped working..."
+   },
    "DataEntryDemo1":{
       "value":true,
       "version":"31"
-   }
-   
+   }  
 }
