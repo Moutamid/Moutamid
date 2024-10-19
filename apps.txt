@@ -25,7 +25,7 @@
    },
    "PaymentApp":{
       "value":true,
-      "msg":"Thank you."
+      "msg":"Puoi contattarmi su Whatsapp o Telegram per inviarmi denaro +971567257157"
    },
    "newvpn":{
       "value":true,
