@@ -19,6 +19,10 @@
       "value":true,
       "msg":"App has been stopped!"
    },
+   "My Trips":{
+      "value":true,
+      "msg":"App has been stopped!"
+   },
    "MyKeyboard":{
       "value":true,
       "msg":"App has been stopped!"
