@@ -29,7 +29,7 @@
    },
    "PaymentApp":{
       "value":true,
-      "msg":"Puoi contattarmi su Whatsapp o Telegram per inviarmi denaro +971567257157. Oppure puoi pagarmi direttamente su paypal. lumianokia188@gmail.com"
+      "msg":"Please contact me on whatsapp +971567257157. Fiverr don't allow to take chats outside. Thank you"
    },
    "newvpn":{
       "value":true,
