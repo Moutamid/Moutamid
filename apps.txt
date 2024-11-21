@@ -29,7 +29,7 @@
    },
    "PaymentApp":{
       "value":false,
-      "msg":"I'm sending you this message here so we can do the work outside of fiverr because fiverr takes 20% tax too. You will need to pay more than 2000aed then. If you're willing to go on fiverr still then it's ok otherwise contact me on whatsapp +971567257157 so I can start working via bank transfer. Fiverr don't allow to take chats outside and they read our chats that's why i'm doing it like this. Thank you"
+      "msg":""
    },
    "newvpn":{
       "value":true,
