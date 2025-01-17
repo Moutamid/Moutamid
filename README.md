@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://moutamid.com">Moutamid</a>👨‍💻</h1>
 <!-- # Numan Anees 👨‍💻 -->
 
-[![Instagram Badge](https://img.shields.io/badge/Moutamid-30302f?style=flat&logo=instagram)](https://www.instagram.com/hi.moutamid/)
+[![Instagram Badge](https://img.shields.io/badge/hi.Moutamid-30302f?style=flat&logo=instagram)](https://www.instagram.com/hi.moutamid/)
 [![Gmail Badge](https://img.shields.io/badge/hi@moutamid.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:hi@moutamid.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=Moutamid)  
 
