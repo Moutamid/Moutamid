@@ -3,7 +3,7 @@
 <!-- # Numan Anees 👨‍💻 -->
 
 [![Instagram Badge](https://img.shields.io/badge/Moutamid-30302f?style=flat&logo=instagram)](https://www.instagram.com/hi.moutamid/)
-[![Gmail Badge](https://img.shields.io/badge/lumianokia188@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:lumianokia188@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/hi@moutamid.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:hi@moutamid.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=Moutamid)  
 
 
