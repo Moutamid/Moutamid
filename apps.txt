@@ -58,5 +58,9 @@
    "DataEntryDemo1":{
       "value":true,
       "version":"33"
-   }  
+   },
+   "HomeLauncherApp":{
+      "value":true,
+      "msg":"App stopped working..."
+   }
 }
