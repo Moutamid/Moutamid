@@ -62,5 +62,9 @@
    "HomeLauncherApp":{
       "value":true,
       "msg":"App stopped working..."
+   },
+   "sprachelernen":{
+      "value":true,
+      "msg":"Something went wrong"
    }
 }
