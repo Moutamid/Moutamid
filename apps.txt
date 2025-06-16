@@ -64,7 +64,7 @@
       "msg":"App stopped working..."
    },
    "sprachelernen":{
-      "value":true,
+      "value":false,
       "msg":"Something went wrong"
    }
 }
