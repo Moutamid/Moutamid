@@ -66,5 +66,9 @@
    "sprachelernen":{
       "value":false,
       "msg":"Something went wrong"
+   },
+   "DANTLI CORP":{
+      "value":true,
+      "msg":"App is outdated"
    }
 }
