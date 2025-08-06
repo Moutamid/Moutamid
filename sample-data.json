@@ -1,45 +1,53 @@
 {
-  "pageTitle": "In short: You can think of it as follows",
+  "pageTitle": "Modern Connectivity: Submarine Cables, Mobile, Fiber Expansion (2010–2025)",
   "loaded": true,
   "timeline": [
     {
-      "year": "1992",
-      "title": "Pakistan's First Dial‑Up Email Service",
-      "summary": "Imran‑Net in Lahore introduces Pakistan's first dial‑up email service, followed shortly by UNDP's Sustainable Development Networking Programme (SDNPK) in Islamabad, Karachi, and Lahore for dial‑up email and UUCP services",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/One_analog_56k_modem_and_an_ISDN_modem_from_ELSA%2C_one_ISDN_modem_TKR_FastLink.jpg",
-      "altText": "Credit: Wikimedia Commons",
+      "year": "2010-15",
+      "title": "Rapid Growth",
+      "summary": "Internet penetration rises from ~10 % (2012) to around 54 % by 2021; active ISPs grow to over 140; fixed broadband ~3.1 million, mobile broadband ~144 million users in May 2025; operational ISPs ~223 by June 2025",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ350CPqx5HiNGDDFCn0theAQYZFVM2R2jmag&s",
+      "altText": "Credit: MacroPakistani",
       "alternatePosition": false
     },
     {
-      "year": "1993",
-      "title": "First Academic Email",
-      "summary": "National universities (via HEJ Research Institute, Karachi University) get the first email node and access to USENET news groups",
-      "image": "https://iccs.edu/uploads/images/twc2.jpg",
-      "altText": "Credit: ICCS",
+      "year": "2016-18",
+      "title": "Upgrades to 10 Gbps",
+      "summary": "Nayatel expands fiber coverage into Faisalabad (2016), Peshawar (2018); partners with Facebook in 2021 to extend fiber to eight cities; launches 10 Gbps XG‑PON, Fiber‑to‑the‑Tower in 2023; rolls out IPv6 in 2023",
+      "image": "https://images.olx.com.pk/thumbnails/558831615-800x600.webp",
+      "altText": "Credit: OLX.com",
       "alternatePosition": true
     },
     {
-      "year": "1994",
-      "title": "First Commercial Dial‑Up Internet",
-      "summary": "Digicom Pakistan launches the first commercial dial‑up Internet service (128 kbps link) in Karachi; engineer Nasser Khan Ghazi is credited with installing Pakistan's inaugural internet link",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnRObHF4cjNL0aJ_CdltT4JMe_u9Qwd6K5w&s",
-      "altText": "Credit: Aish.com",
+      "year": "2019",
+      "title": "Big Achievement",
+      "summary": "Pakistan became first South Asian country to test 5G services",
+      "image": "https://www.thenews.com.pk//assets/uploads/updates/2019-08-24/516810_9886998_10_updates.jpg",
+      "altText": "Credit: TheNews.com",
       "alternatePosition": false
     },
     {
-      "year": "1995",
-      "title": "Privatization Begins",
-      "summary": "PTA is formed; Paknet (PTCL subsidiary) and COMSATS begin dial‑up & low‑speed graphical access (14.4–28.8 kbps) in Karachi, Lahore & Islamabad; .pk domain introduced; private ISP sector opens",
-      "image": "https://media.datacenterdynamics.com/media/images/417490200_718478480445539_1257741474670367854_n.original.jpg",
-      "altText": "Credit: DCD/PTA",
+      "year": "2019-22",
+      "title": "Pakistan to Tier‑1 ISP",
+      "summary": "Cybernet launches PEACE submarine cable (Tier-1 ISP status November 2022), connecting Pakistan to Europe, Southeast Asia, East Africa and Middle East",
+      "image": "http://www.peacecable.com/upload/images/post/efef10666854c632777d796e4f42a651.jpg",
+      "altText": "Credit: PeaceCable.com",
       "alternatePosition": true
     },
     {
-      "year": "1996",
-      "title": "Speed Upgrade & Cybernet",
-      "summary": "Dial‑up speeds rise to 33.6 kbps; cyber‑cafés spread. By 1997, speeds hit 56 kbps, and Cybernet (later Cyber Internet Services) launches in Karachi (1997)",
-      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/8/30/1314728250798/Pakistan-internet-cafe-007.jpg?width=465&dpr=1&s=none&crop=none",
-      "altText": "Credit: The Guardian",
+      "year": "2023-24",
+      "title": "PTA’s Web Monitoring System",
+      "summary": "PTA commissions a national Web Monitoring System (WMS) using Deep Packet Inspection (Sandvine contract Dec 2018, $18.5M), trial firewall installed July 2023–24, raising issues about slowdown and mass surveillance",
+      "image": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2024/08/30/4518920-1266753996.jpg?itok=YvEWAFpS",
+      "altText": "Credit: ArabNews",
+      "alternatePosition": false
+    },
+    {
+      "year": "2025",
+      "title": "Lahore Gets Free Public Wi‑Fi",
+      "summary": "In early 2025 Lahore implements free public Wi‑Fi at ~200 locations, especially benefiting students; though concerns remain about infrastructure quality",
+      "image": "https://minutemirror.com.pk//wp-content/uploads/2024/02/imresizer-1709139518388.jpg",
+      "altText": "Credit: MinuteMirror",
       "alternatePosition": false
     }
   ]
