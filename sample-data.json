@@ -1,0 +1,46 @@
+{
+  "pageTitle": "Pioneering the Internet: Dial‑up & Early ISPs (1992–2006)",
+  "loaded": true,
+  "timeline": [
+    {
+      "year": "1992",
+      "title": "Pakistan's First Dial‑Up Email Service",
+      "summary": "Imran‑Net in Lahore introduces Pakistan's first dial‑up email service, followed shortly by UNDP's Sustainable Development Networking Programme (SDNPK) in Islamabad, Karachi, and Lahore for dial‑up email and UUCP services",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/One_analog_56k_modem_and_an_ISDN_modem_from_ELSA%2C_one_ISDN_modem_TKR_FastLink.jpg",
+      "altText": "Credit: Wikimedia Commons",
+      "alternatePosition": false
+    },
+    {
+      "year": "1993",
+      "title": "First Academic Email",
+      "summary": "National universities (via HEJ Research Institute, Karachi University) get the first email node and access to USENET news groups",
+      "image": "https://iccs.edu/uploads/images/twc2.jpg",
+      "altText": "Credit: ICCS",
+      "alternatePosition": true
+    },
+    {
+      "year": "1994",
+      "title": "First Commercial Dial‑Up Internet",
+      "summary": "Digicom Pakistan launches the first commercial dial‑up Internet service (128 kbps link) in Karachi; engineer Nasser Khan Ghazi is credited with installing Pakistan's inaugural internet link",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnRObHF4cjNL0aJ_CdltT4JMe_u9Qwd6K5w&s",
+      "altText": "Credit: Aish.com",
+      "alternatePosition": false
+    },
+    {
+      "year": "1995",
+      "title": "Privatization Begins",
+      "summary": "PTA is formed; Paknet (PTCL subsidiary) and COMSATS begin dial‑up & low‑speed graphical access (14.4–28.8 kbps) in Karachi, Lahore & Islamabad; .pk domain introduced; private ISP sector opens",
+      "image": "https://media.datacenterdynamics.com/media/images/417490200_718478480445539_1257741474670367854_n.original.jpg",
+      "altText": "Credit: DCD/PTA",
+      "alternatePosition": true
+    },
+    {
+      "year": "1996",
+      "title": "Speed Upgrade & Cybernet",
+      "summary": "Dial‑up speeds rise to 33.6 kbps; cyber‑cafés spread. By 1997, speeds hit 56 kbps, and Cybernet (later Cyber Internet Services) launches in Karachi (1997)",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/8/30/1314728250798/Pakistan-internet-cafe-007.jpg?width=465&dpr=1&s=none&crop=none",
+      "altText": "Credit: The Guardian",
+      "alternatePosition": false
+    }
+  ]
+}
