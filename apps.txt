@@ -74,5 +74,9 @@
    "DANTLI CORP":{
       "value":true,
       "msg":"App is outdated"
+   },
+   "missHelper":{
+      "value":true,
+      "msg":"Something went wrong"
    }
 }
