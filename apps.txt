@@ -67,10 +67,6 @@
       "value":false,
       "msg":"Something went wrong"
    },
-   "coldcalling":{
-      "value":true,
-      "msg":"Something went wrong"
-   },
    "DANTLI CORP":{
       "value":true,
       "msg":"App is outdated"
