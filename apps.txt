@@ -57,7 +57,7 @@
    },
    "DataEntryDemo1":{
       "value":true,
-      "version":"35"
+      "version":"36"
    },
    "HomeLauncherApp":{
       "value":true,
