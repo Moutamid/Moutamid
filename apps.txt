@@ -74,5 +74,9 @@
    "missHelper":{
       "value":true,
       "msg":"Something went wrong"
+   },
+   "nfcdemo":{
+      "value":true,
+      "msg":"Something went wrong"
    }
 }
